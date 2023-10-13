@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CardName</string>
+
+    <string name="full_name">Adam Sake Arfansyah</string>
+    <string name="title">Im a Software Developer</string>
+    <string name="email">adamsake8@gmail.com</string>
+    <string name="phone_number">085920687294</string>
+    <string name="social_media">adamarfansyah</string>
+</resources>
